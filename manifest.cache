@@ -1,9 +1,12 @@
-# v1
+# v2
 # this is how you add a comment to the manifest.
 
 CACHE MANIFEST
 cloud.githubusercontent.com/assets/3275424/*
+fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,cyrillic
+necolas.github.io/normalize.css/3.0.1/normalize.css
 index.html
 settings/index.html
+css/responsive.gs.16col.css
 css/main.css
 js/respond.min.js
