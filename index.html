@@ -13,6 +13,11 @@
     <link href="css/main.css" rel="stylesheet">
     
     <script src="js/respond.min.js"></script>
+    <script>
+        window.addEventListener('load', function() {
+            alert(navigator.onLine ? 'Вы в сети! :)' : 'Вы не в сети :(');
+        }, false);
+    </script>
   </head>
   <body>
     <main class="container row">
