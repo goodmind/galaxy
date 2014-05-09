@@ -37,7 +37,6 @@ hr {
 /** Buttons */
 button,
 .btn {
-  // text-transform: uppercase;
   border: 1px solid #e0e1e3;
   padding: 10px 15px;
   border-radius: 5px;
@@ -122,7 +121,6 @@ aside.right {
   margin-top: 8px;
   color: #657b90;
   font-weight: 600;
-  text-transform: uppercase;
 }
 
 .profile .last-name {
