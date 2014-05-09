@@ -1,0 +1,9 @@
+# v1
+# this is how you add a comment to the manifest.
+
+CACHE MANIFEST
+cloud.githubusercontent.com/assets/3275424/*
+index.html
+settings/index.html
+css/main.css
+js/respond.min.js
