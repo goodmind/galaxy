@@ -262,7 +262,6 @@ section.content {
 
 /** Tabs */
 .tabs {
-  text-transform: uppercase;
   background: #f5f6f8;
   overflow-x: auto;
   overflow-y: hidden;
